@@ -1,0 +1,31 @@
+.contact-container {
+    height: fit-content;
+    width: 1024px;
+}
+
+h1 {
+    text-transform: none;
+    color: #EE303B;
+    font-size: xxx-large;
+}
+
+h2 {
+    color: coral;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: medium;
+}
+
+.contact-text-container {
+    padding-left: 64px;
+    width: 412px;
+    height: 768px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    display: block;
+}
