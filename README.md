@@ -26,5 +26,5 @@ Los campos y el botón deben quedar alineados al lado izquierdo del Título del 
 La idea es que el margen inferior del boton esté a una distancia del borde igual al borde superior del título respecto del borde superior del recuadro rojo.
 
 ## Paso 2: Campo opcional
-Si la edad ingresada es de mas de 40, debe aparecer un cuadro de eleccion de que tipo de vacuno desea darse:
+Si la edad ingresada es de mas de 40, debe aparecer un cuadro de eleccion de que tipo de vacuna que desea darse:
 Sinovac, Pfeizer, Moderna, Jhonson & Jhonson
